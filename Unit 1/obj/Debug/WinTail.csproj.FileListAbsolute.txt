@@ -1,0 +1,10 @@
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\WinTail.exe.config
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\WinTail.exe
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\WinTail.pdb
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\Akka.dll
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\Akka.xml
+C:\Users\Aaron\Downloads\Unit-1\DoThis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aaron\Downloads\Unit-1\DoThis\obj\Debug\WinTail.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\Downloads\Unit-1\DoThis\obj\Debug\WinTail.exe
+C:\Users\Aaron\Downloads\Unit-1\DoThis\obj\Debug\WinTail.pdb
